@@ -11,7 +11,7 @@ This analysis measures the risk of an organization as a portion of its tenured w
 - Further inspection shows a need to clean data further.  Some of the employees have had numerous titles.  Restricting the table to only show current titles will remove duplicates and shows that more than 72,000 employees could be retiring of the 300,000 in the employee table:        
   ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/70Kstillworking.PNG?raw=true)
          <br>
-- Unfortunately, when broken out by Title, we see that over 50,000 of those 72,000 retiring hold Senior Engineering or Senior Staff roles.  Roles difficult to recruite and hire for:        
+- Unfortunately, when broken out by Title, we see that over 50,000 of those 72,000 retiring hold Senior Engineering or Senior Staff roles.  Roles difficult to recruit and hire for:        
   ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/titlesbreakout.PNG?raw=true)
          <br>
 - To soften the blow, has identified 1,549 employees who are still roughly 10 years from retirement that can become mentees to those eligible for retirement.  Their titles range but still cover the feilds needed in this knowledge sharing effort.        
