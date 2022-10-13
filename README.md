@@ -25,6 +25,6 @@ This analysis measures the risk of an organization as a portion of its tenured w
 - Even with minimal participation, there should be more than enough retirement-ready employees to train the 1,549 mentorship-eligible employees.  These 2 tables show tremendous overlap in titles between the 2 populations.  
 ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/Mentee.PNG?raw=true)![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/titlesbreakout.PNG?raw=true)
 
-- Finally, not all retirement ready employees should be considered mentors.  There is a population of 5,315 soon to be retired employees who started with the company much later in their careers and have low tenure.  DOB 1955 but started  at 40+ years of age after 1996.  While they may have skills to share, there are 1,422 mentee that would have been at Pewlette Hackard for longer:  
+- Finally, not all retirement ready employees should be considered mentors.  There is a population of 5,315 soon to be retired employees who started with the company much later in their careers and have low tenure.  DOB 1955 but started  at 40+ years of age after 1996.  While they may have skills to share, there are 1,422 mentees that would have been at Pewlette Hackard for longer:  
 ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/RetireLowTenure.PNG?raw=true)![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/MenteeHighTenure.PNG?raw=true)
 
