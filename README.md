@@ -1,7 +1,7 @@
 # “Always pass on what you have learned.” — Yoda
 
 ## Overview of Project:
-This analysis measures the risk of an organization as a portion of its tenured work force nears retirement.  They can brace for impact or levergae remaining time or come up with creative incentives to knowledge share with younger generations of employees.
+This analysis measures the risk of an organization as a portion of its tenured work force nears retirement.  They can brace for impact or leverage remaining time or come up with creative incentives to knowledge share with younger generations of employees.
 
 ### Results: 
 - Running a distinct count on the table housing retired employees and their titles shows that more than 90,000 employees could be retiring of the 300,000 in the employee table:
@@ -14,7 +14,7 @@ This analysis measures the risk of an organization as a portion of its tenured w
 - Unfortunately, when broken out by Title, we see that over 50,000 of those 72,000 retiring hold Senior Engineering or Senior Staff roles.  Roles difficult to recruit and hire for:        
   ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/titlesbreakout.PNG?raw=true)
          <br>
-- To soften the blow, Pewlett-Hackard has identified 1,549 employees who are still roughly 10 years from retirement that can become mentees to those eligible for retirement.  Their titles range but still cover the feilds needed in this knowledge sharing effort.        
+- To soften the blow, Pewlett-Hackard has identified 1,549 employees who are still roughly 10 years from retirement that can become mentees to those eligible for retirement.  Their titles range but still cover the fields needed in this knowledge sharing effort.        
   ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/Mentee.PNG?raw=true)
   
   
