@@ -10,6 +10,15 @@ This analysis measures the risk of an organization as a portion of its tenure wo
         <br>
 - Further inspection shows a need to clean data further.  Some of the employees above have already retired or left the company.  Restricting the table to only those still employed shows that more than 72,000 employees could be retiring of the 300,000 in the employee table:        
   ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/70Kstillworking.PNG?raw=true)
+         <br>
+- Unfortunately, when broken out by Title, we see that over 50,000 of those 72,000 retiring hold Senior Engineering or Senior Staff roles.  Roles difficult to recruite and hire for:        
+  ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/titlesbreakout.PNG?raw=true)
+         <br>
+- Further inspection shows a need to clean data further.  Some of the employees above have already retired or left the company.  Restricting the table to only those still employed shows that more than 72,000 employees could be retiring of the 300,000 in the employee table:        
+  ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/70Kstillworking.PNG?raw=true)
+  
+  
+  
  
 ### Recommendations:
 - Resist the urge to send more drivers to the rural area.  The number of Rural drivers is 13% that of the Urban drivers but their total fares is 9% that of Urban total fares.  Each Urban driver even with the lower average fare still generates more overall income for Pyber.
