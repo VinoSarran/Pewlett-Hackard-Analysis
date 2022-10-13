@@ -4,9 +4,9 @@
 This analysis measures the risk of an organization as a portion of its tenure work force nears retirement.  They can brace for impact or levergae remaining time or come up with creative incentives to knowledge share with younger generations of employees.
 
 ### Results: 
-- From the ride sharing data collected between 01/01/2019 and 04/29/2019, we see that urban, suburban, and rural fares do not fluctuate greatly but are vastly different in their total fares and average fares per driver:
+- Running a distinct count on the table housing retired employees and their titles shows that more than 90,000 employees could be retiring of the 300,000 in the employee table:
        <br>
- ![alt text](https://github.com/VinoSarran/PyBer_Analysis/blob/main/Resources/ChartMPLIB.PNG?raw=true)
+ ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/90kretiring.PNG?raw=true)
         <br>
 - Rural Rides have the lowest count but those riders generate more revenue per ride.  Conversely, Urban Rides have the highest count but the lowest revenue per ride.  As you can guess, Suburban performance falls in the middle:        
   ![alt text](https://github.com/VinoSarran/PyBer_Analysis/blob/main/Resources/TableMPLIB.PNG?raw=true)
