@@ -10,7 +10,6 @@ order by e.emp_no;
 
 select * from Employees_to_Titles limit 10;
 
-Use Dictinct with Orderby to remove duplicate rows
 SELECT DISTINCT ON (emp_no) emp_no, 
 first_name, 
 last_name, 
